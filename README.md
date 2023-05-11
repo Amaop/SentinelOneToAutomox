@@ -5,8 +5,7 @@ A script to convert SentinelOne Application vulnerability CSVs to Automox Remedi
 This script is only desgined for SentinelOne Application Risks exports.
 
 ## Usage
-
-1. 'python s1toautomox.py'
+1. `python s1toautomox.py`
 
 2. Choose the SentinelOne CSV file in the file dialogue
 
